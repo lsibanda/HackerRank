@@ -1,18 +1,18 @@
 # Check Tutorial tab to know how to to solve.
 
 # Task
-# Read an integer . For all non-negative integers , print . See the sample for details.
+# Read an integer n . For all non-negative integers i < n, print i2. See the sample for details.
 
 # Input Format
 
-# The first and only line contains the integer, .
+# The first and only line contains the integer, n.
 
 # Constraints
-
+# 1 <= n <= 20 
 
 # Output Format
 
-# Print  lines, one corresponding to each .
+# Print n lines, one corresponding to each i .
 
 # Sample Input 0
 
